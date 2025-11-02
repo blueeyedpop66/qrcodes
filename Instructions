@@ -1,0 +1,10 @@
+Creating qr codes for ENSAM pill sorting machine
+Take one of the examples and copy it.
+replace the instances of the name with the new name.
+replace the vitamin counts with the new vitamin counts. 
+
+go to https://goqr.me/#t=url
+create a URL QR code. THe format of the URL is 
+https://blueeyedpop66.github.io/qrcodes/DON_CHEDLE.html?ID:DON_CHEDLE;A=1;B=2;C=3;D=2;E=1
+github URL^                         Name^        Querie^  data ^
+the ? allows the portion past the ? to be interpreted as application data. 
